@@ -1,0 +1,7 @@
+package Chap02;
+
+public class SumAveError {
+	public static void main(String[] args) {
+		
+	}
+}
