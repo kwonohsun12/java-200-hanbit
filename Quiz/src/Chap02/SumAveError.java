@@ -12,11 +12,11 @@ public class SumAveError {
 		sum = x + y + z;
 		
 		
-		System.out.println("x°ªÀº" + x + "ÀÔ´Ï´Ù.");
-		System.out.println("y°ªÀº" + y + "ÀÔ´Ï´Ù.");
-		System.out.println("z°ªÀº" + z + "ÀÔ´Ï´Ù.");
-		System.out.println("ÇÕ°è´Â" + (x + y + z) + "ÀÔ´Ï´Ù.");
-		System.out.println("Æò±ÕÀº" + (x + y + z)/2 + "ÀÔ´Ï´Ù.");
-		System.out.println("sumÀº" + sum + "ÀÔ´Ï´Ù.");
+		System.out.println("xê°’" + x + "ì…ë‹ˆë‹¤.");
+		System.out.println("yê°’" + y + "ì…ë‹ˆë‹¤.");
+		System.out.println("zê°’" + z + "ì…ë‹ˆë‹¤.");
+		System.out.println("ì´í•©ì€" + (x + y + z) + "ì…ë‹ˆë‹¤.");
+		System.out.println("í‰ê· ì€" + (x + y + z)/3 + "ì…ë‹ˆë‹¤.");
+		System.out.println("sumì€" + sum + "ì…ë‹ˆë‹¤.");
 	}
 }
