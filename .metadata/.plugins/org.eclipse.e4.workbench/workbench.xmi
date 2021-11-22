@@ -2,7 +2,7 @@
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_DII6sUhpEeynA4w4U2Lcmw" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_DII6skhpEeynA4w4U2Lcmw" bindingContexts="_DII6u0hpEeynA4w4U2Lcmw">
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SumAveError.java&quot; tooltip=&quot;Quiz/src/Chap02/SumAveError.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Quiz/src/Chap02/SumAveError.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SumAve1.java&quot; tooltip=&quot;Quiz/src/Chap02/SumAve1.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Quiz/src/Chap02/SumAve1.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SumDiff1.java&quot; tooltip=&quot;Quiz/src/Chap02/SumDiff1.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Quiz/src/Chap02/SumDiff1.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PrintName1A.java&quot; tooltip=&quot;Quiz/src/chap01/PrintName1A.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Quiz/src/chap01/PrintName1A.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Hello1A.java&quot; tooltip=&quot;Quiz/src/chap01/Hello1A.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Quiz/src/chap01/Hello1A.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;HelloError.java&quot; tooltip=&quot;Quiz/src/chap01/HelloError.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Quiz/src/chap01/HelloError.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Hello.java&quot; tooltip=&quot;Quiz/src/chap1/Hello.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Quiz/src/chap1/Hello.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_DII6skhpEeynA4w4U2Lcmw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_DheAskhpEeynA4w4U2Lcmw" label="%trimmedwindow.label.eclipseSDK" x="343" y="150" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_DII6skhpEeynA4w4U2Lcmw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_DheAskhpEeynA4w4U2Lcmw" label="%trimmedwindow.label.eclipseSDK" x="855" y="73" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -420,7 +420,7 @@
                 <tags>categoryTag:CodeTogether</tags>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_P8hy-kkIEeyQkZKA-xsXbg" containerData="7500" selectedElement="_P8hzBkkIEeyQkZKA-xsXbg">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_P8hy-kkIEeyQkZKA-xsXbg" containerData="7500" selectedElement="_P8hy-0kIEeyQkZKA-xsXbg">
               <children xsi:type="basic:PartSashContainer" xmi:id="_P8hy-0kIEeyQkZKA-xsXbg" containerData="7500" selectedElement="_P8hy_EkIEeyQkZKA-xsXbg" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_P8hy_EkIEeyQkZKA-xsXbg" elementId="org.eclipse.ui.editorss" containerData="6500" ref="_Do-W4EhpEeynA4w4U2Lcmw"/>
                 <children xsi:type="basic:PartStack" xmi:id="_P8hy_UkIEeyQkZKA-xsXbg" elementId="org.eclipse.debug.internal.ui.OutlineFolderView" containerData="3500" selectedElement="_P8hy_kkIEeyQkZKA-xsXbg">
@@ -586,7 +586,7 @@
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_cKijwEkPEeyQkZKA-xsXbg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SumAveError.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SumAveError.java&quot; partName=&quot;SumAveError.java&quot; title=&quot;SumAveError.java&quot; tooltip=&quot;Quiz/src/Chap02/SumAveError.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Quiz/src/Chap02/SumAveError.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;155&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SumAveError.java&quot; partName=&quot;SumAveError.java&quot; title=&quot;SumAveError.java&quot; tooltip=&quot;Quiz/src/Chap02/SumAveError.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Quiz/src/Chap02/SumAveError.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;459&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
@@ -598,7 +598,7 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_DpG5wEhpEeynA4w4U2Lcmw" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.navigator.resources.ProjectExplorer"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.navigator.resources"/>
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;lastRecentlyUsedFilters/>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1637237664139&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;lastRecentlyUsedFilters/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="_D1ZCQEhpEeynA4w4U2Lcmw" elementId="org.eclipse.ui.navigator.ProjectExplorer">
@@ -889,7 +889,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_DjnVwEhpEeynA4w4U2Lcmw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_KqMa0EkBEeyQkZKA-xsXbg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_DI694EhpEeynA4w4U2Lcmw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_QsSq8ErUEeyXY50aj_4yqw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_DI694EhpEeynA4w4U2Lcmw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_DjnVwUhpEeynA4w4U2Lcmw" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -929,7 +929,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Djn81EhpEeynA4w4U2Lcmw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_KqTvkEkBEeyQkZKA-xsXbg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_DI5wAUhpEeynA4w4U2Lcmw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_QsVuQErUEeyXY50aj_4yqw" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_DI5wAUhpEeynA4w4U2Lcmw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Djn81UhpEeynA4w4U2Lcmw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -3527,7 +3527,7 @@
   <addons xmi:id="_DIJhyUhpEeynA4w4U2Lcmw" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_DIJhykhpEeynA4w4U2Lcmw" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_DIWWEEhpEeynA4w4U2Lcmw" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_KPCI0UkBEeyQkZKA-xsXbg" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_DIwlwEhpEeynA4w4U2Lcmw" elementId="org.eclipse.ui.category.edit" name="Edit"/>
   <categories xmi:id="_DIxM0EhpEeynA4w4U2Lcmw" elementId="org.eclipse.mylyn.wikitext.ui.editor.category" name="WikiText Markup Editing Commands" description="commands for editing lightweight markup"/>
