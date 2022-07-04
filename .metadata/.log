@@ -1453,3 +1453,16 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2022-07-04 21:13:52.351
+!MESSAGE Error occurred installing server: C:\Program Files\apache-tomcat-9.0.53\apache-tomcat-9.0.53\apache-tomcat-9.0.46\BUILDING.txt (지정된 경로를 찾을 수 없습니다)
+!STACK 0
+java.io.FileNotFoundException: C:\Program Files\apache-tomcat-9.0.53\apache-tomcat-9.0.53\apache-tomcat-9.0.46\BUILDING.txt (지정된 경로를 찾을 수 없습니다)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:291)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:234)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:184)
+	at org.eclipse.wst.server.core.internal.InstallableRuntime2.unzip(InstallableRuntime2.java:327)
+	at org.eclipse.wst.server.core.internal.InstallableRuntime2.install(InstallableRuntime2.java:265)
+	at org.eclipse.jst.server.tomcat.ui.internal.TomcatRuntimeComposite$4$2.run(TomcatRuntimeComposite.java:229)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
