@@ -13,4 +13,5 @@ class Address {
 		System.out.print("주소는 " + address + "입니다.");
 	}
 
+
 }
